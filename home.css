@@ -283,17 +283,6 @@ footer .cols .news-col form button i{
     font-size: 26px;
 }
 
-.copyrights{
-    display: flex;
-    justify-content: center;
-
-    h4{
-        color: white;
-        margin-top: 10px;
-        font-size: 12px;
-    }
-}
-
 
 
 
@@ -488,13 +477,6 @@ footer .cols .news-col form button i{
 
     .guarantee .item .info p{
         font-size: 12px;
-    }
-
-    .copyrights{
-        h4{
-            margin-top: 10px;
-            font-size: 10px;
-        }
     }
 
 }
